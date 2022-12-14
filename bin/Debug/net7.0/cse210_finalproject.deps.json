@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cse210_finalproject/1.0.0": {
+        "runtime": {
+          "cse210_finalproject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cse210_finalproject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
